@@ -1,0 +1,7 @@
+{
+    "jira-plugin.workingProject": "",
+    "cSpell.words": [
+        "mynewapp"
+    ],
+    "cmake.sourceDirectory": "${workspaceFolder}/windows"
+}
