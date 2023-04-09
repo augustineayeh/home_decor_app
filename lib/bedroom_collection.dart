@@ -110,7 +110,7 @@ class _BedroomFurnitureWidgetState extends State<BedroomFurnitureWidget> {
                       }),
                     ),
                   );
-                },
+                }, 
                 child: Hero(
                   tag: widget.index,
                   child: Container(
