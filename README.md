@@ -1,6 +1,6 @@
-# mynewapp
+# home_decor_app
 
-A new Flutter project.
+UI for a home decor app built with Flutter.
 
 
 ## Screens 
