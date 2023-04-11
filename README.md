@@ -1,5 +1,4 @@
 # home_decor_app
-
 UI for a home decor app built with Flutter.
 
 
