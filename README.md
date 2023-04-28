@@ -1,4 +1,4 @@
-Home Decor App UI
+# Home Decor App UI
 Built with Flutter.
 
 ## Screens 
@@ -9,3 +9,7 @@ Built with Flutter.
 | Details Screen | Living Room Collection | 
 |:-------------:|:-------------:|
 ![](./readme_files/details_screen.png) | ![](./readme_files/living_room_collection.png) |
+
+| Bathroom Collection | Kitchen Collection |  
+:-------------:|:-------------:|
+![](./readme_files/bathroom_collection.png) | ![](./readme_files/kitchen_collection.png) | 
