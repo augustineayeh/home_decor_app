@@ -1,5 +1,7 @@
 # Home Decor App UI
-Built with Flutter.
+Built with Flutter. 
+
+There was no design inspiration for this. I was just developing something from the top of my head lol 
 
 ## Screens 
 | Home Page | Bedroom Collection |  
