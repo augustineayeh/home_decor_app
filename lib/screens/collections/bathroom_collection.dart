@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:mynewapp/models/furniture_details.dart';
 import 'package:mynewapp/models/furniture_model.dart';
 import 'package:mynewapp/screens/collections/kitchen_collection.dart';
-import 'package:mynewapp/models/furniture_details.dart';
 import 'package:mynewapp/screens/home_page.dart';
 
 class BathroomCollection extends StatefulWidget {
@@ -143,10 +143,10 @@ class _BathroomCollectionWidgetState extends State<BathroomCollectionWidget> {
           ),
         ),
         Container(
-          padding: const EdgeInsets.all(5.0),
+          padding: const EdgeInsets.all(8.0),
           child: Text(
             '\$${widget.furniture.price}',
-            style: const TextStyle(fontWeight: FontWeight.w400, fontSize: 16),
+            style: const TextStyle(fontWeight: FontWeight.w400, fontSize: 18),
           ),
         ),
       ],
