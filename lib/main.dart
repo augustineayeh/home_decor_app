@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mynewapp/bedroom_collection.dart';
-import 'package:mynewapp/homepage_trial.dart';
+import 'package:mynewapp/screens/collections/bedroom_collection.dart';
+import 'package:mynewapp/screens/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
 }
 
 class SignUpPage extends StatefulWidget {
+  const SignUpPage({super.key});
+
   @override
   _SignUpPageState createState() => _SignUpPageState();
 }
