@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:mynewapp/models/furniture_details.dart';
 import 'package:mynewapp/models/furniture_model.dart';
 import 'package:mynewapp/screens/collections/bedroom_collection.dart';
 import 'package:mynewapp/screens/collections/kitchen_collection.dart';
-import 'package:mynewapp/models/furniture_details.dart';
 
 class LivingRoomFurniture extends StatefulWidget {
   const LivingRoomFurniture({super.key});
@@ -144,10 +144,10 @@ class _LivingRoomFurnitureWidgetState extends State<LivingRoomFurnitureWidget> {
           ),
         ),
         Container(
-          padding: const EdgeInsets.all(5.0),
+          padding: const EdgeInsets.all(8.0),
           child: Text(
             '\$${widget.furniture.price}',
-            style: const TextStyle(fontWeight: FontWeight.w400, fontSize: 16),
+            style: const TextStyle(fontWeight: FontWeight.w400, fontSize: 18),
           ),
         ),
       ],

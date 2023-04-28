@@ -142,10 +142,10 @@ class _BedroomFurnitureWidgetState extends State<BedroomFurnitureWidget> {
           ),
         ),
         Container(
-          padding: const EdgeInsets.all(5.0),
+          padding: const EdgeInsets.all(8.0),
           child: Text(
             '\$${widget.furniture.price}',
-            style: const TextStyle(fontWeight: FontWeight.w400, fontSize: 16),
+            style: const TextStyle(fontWeight: FontWeight.w400, fontSize: 18),
           ),
         ),
       ],
